@@ -16,7 +16,7 @@ Institut Agama Islam Nasional LaaRoiba
 - Ngoding.
 - Baca qur'an
 
-### Bahasa Pemograman mj
+### Bahasa Pemograman
 
 - Javascript.
 - PHP.
